@@ -1,7 +1,8 @@
 # MLP Mini
 
 A minimal implementation of a Multi-Layer Perceptron (MLP) from scratch, demonstrating core concepts of:
-- How does a Neuron work?
+- Chain Rule
+- Gradient Descent
 - Backpropagation
 - Loss Accumulation
 - Training Cycle
